@@ -46,9 +46,9 @@ sudo rcnscd restart</code>
 ---------------------------------------------------------
 
 对于systemd发行版，请使用命令
+
 ---------------------------------------------------------
-sudo systemctl restart NetworkManager
----------------------------------------------------------
+
 <code>sudo systemctl restart NetworkManager</code>
 
 Mac OS X终端输入
